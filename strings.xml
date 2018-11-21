@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="option_select">Choose Items</string>
+    <string-array name="object_array">
+        <item>House</item>
+        <item>ICake</item>
+        <item>Car</item>
+        <item>Money</item>
+    </string-array>
+    <integer-array name="object_image">
+        <item>@drawable/house</item>
+        <item>@drawable/cake</item>
+        <item>@drawable/car</item>
+        <item>@drawable/money</item>
+    </integer-array>
+</resources>
